@@ -1,0 +1,42 @@
+.todo-container{
+
+    width:400px;
+    margin:50px auto;
+    text-align:center;
+
+}
+
+
+input{
+
+    padding:10px;
+    width:250px;
+
+}
+
+
+button{
+
+    padding:10px;
+    margin-left:5px;
+
+}
+
+
+.todo-item{
+
+    margin-top:15px;
+    padding:10px;
+    border:1px solid black;
+    display:flex;
+    justify-content:space-between;
+
+}
+
+
+.completed{
+
+    text-decoration:line-through;
+    color:gray;
+
+}
